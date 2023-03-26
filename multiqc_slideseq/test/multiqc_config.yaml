@@ -1,0 +1,7 @@
+
+sp:
+  slideseq:
+    fn: "*.slideseq.json"
+    fn: "*.slideseq.csv"
+
+
